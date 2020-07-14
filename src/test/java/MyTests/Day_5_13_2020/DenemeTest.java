@@ -2,6 +2,7 @@ package MyTests.Day_5_13_2020;
 
 import org.openqa.selenium.WebDriver;
 import utilities.BrowserFactory;
+import utilities.StringUtility;
 
 public class DenemeTest {
     public static void main(String[] args) {
@@ -13,11 +14,8 @@ public class DenemeTest {
        String actualResult = driver.getTitle();
        String expectedResult = "Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more";
 
-       if (actualResult.equals(expectedResult)){
-           System.out.println("Test passed");
-       } else{
-           System.out.println("Test failed");
-       }
+        StringUtility.verifyEqual(expectedResult, actualResult);
+
        driver.quit();
     }
 }

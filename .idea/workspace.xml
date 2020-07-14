@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3aac917e-79c3-420f-8ff0-9fc6c08dbbe7" name="Default Changelist" comment="" />
+    <list default="true" id="3aac917e-79c3-420f-8ff0-9fc6c08dbbe7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_5_16_2020/TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_01_2020/TitleVerification2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_01_2020/TitleVerification3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_05_2020/VerifyUrlHasChanged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_05_2020/verifyConfirmationMessageDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_05_2020/webelementDeneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_11_2020/TestWithDifferentLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_12_2020/AppleWebsiteWarmup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_12_2020/dene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_18_2020/Calisma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_18_2020/FileUploading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_18_2020/WindowSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_18_2020/popupHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_20_2020/DropdownTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_24_2020/SmartBearTasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_27_2020/Tasks_9_10_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_30_2020/DriverUtilsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_30_2020/baseClassDeneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_30_2020/learningProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_6_30_2020/readingFromProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_06_2020/ActionsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_06_2020/ActionsPracticesWithPageobj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_06_2020/negativeLoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_07_2020/ExplicitWaitPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_07_2020/ForgotPasswordTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_07_2020/Loading1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_2_2020/JavaScriptExecutorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_2_2020/Uploading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_7_2_2020/actionsPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyTests/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Shortcuts/SwitchWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Shortcuts/areSameElementsInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ForgotPasswordPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HoversPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Loading7Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/SmartBearUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/StringUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/configurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyTests/Day_5_13_2020/DenemeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyTests/Day_5_13_2020/DenemeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MyTests/Day_5_13_2020/DenemeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MyTests/Day_5_13_2020/DenemeTest.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +63,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +74,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1brp2gX0lzz4q6SeOVuTQkpSki0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -35,23 +95,104 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DenemeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyTests.Day_5_13_2020.DenemeTest" />
+  <component name="RunManager" selected="TestNG.ExplicitWaitPractices.tc41">
+    <configuration name="ActionsPracticesWithPageobj.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="My_2020_TestNGSeleniumProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyTests.Day_5_13_2020.*" />
+          <option name="PATTERN" value="MyTests.Day_7_06_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyTests.Day_7_06_2020" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.Day_7_06_2020.ActionsPracticesWithPageobj" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitPractices.tc40_dynamic_title_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_2020_TestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyTests.Day_7_07_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyTests.Day_7_07_2020" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.Day_7_07_2020.ExplicitWaitPractices" />
+      <option name="METHOD_NAME" value="tc40_dynamic_title_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitPractices.tc41" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_2020_TestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyTests.Day_7_07_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyTests.Day_7_07_2020" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.Day_7_07_2020.ExplicitWaitPractices" />
+      <option name="METHOD_NAME" value="tc41" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTests.tc35_title_url_verification" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_2020_TestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyTests.Day_7_07_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyTests.Day_7_07_2020" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.Day_7_07_2020.ForgotPasswordTests" />
+      <option name="METHOD_NAME" value="tc35_title_url_verification" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTests.tc36_errorMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="My_2020_TestNGSeleniumProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyTests.Day_7_07_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyTests.Day_7_07_2020" />
+      <option name="MAIN_CLASS_NAME" value="MyTests.Day_7_07_2020.ForgotPasswordTests" />
+      <option name="METHOD_NAME" value="tc36_errorMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DenemeTest" />
+        <item itemvalue="TestNG.ExplicitWaitPractices.tc41" />
+        <item itemvalue="TestNG.ExplicitWaitPractices.tc40_dynamic_title_test" />
+        <item itemvalue="TestNG.ForgotPasswordTests.tc36_errorMessage" />
+        <item itemvalue="TestNG.ForgotPasswordTests.tc35_title_url_verification" />
+        <item itemvalue="TestNG.ActionsPracticesWithPageobj.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -67,5 +208,18 @@
       <updated>1589399860024</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
